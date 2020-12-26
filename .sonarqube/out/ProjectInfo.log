@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> refs/remotes/origin/main
 Product projects
 ---------------------------------------
 C:\Users\Franel\source\repos\Casse_briques\Casse_briques\Casse_briques.csproj
@@ -22,3 +26,59 @@ Excluded projects
 {none}
 
 
+<<<<<<< HEAD
+=======
+=======
+<<<<<<< HEAD
+Product projects
+---------------------------------------
+C:\Users\Franel\source\repos\Casse_briques\Casse_briques\Casse_briques.csproj
+
+
+Test projects
+---------------------------------------
+
+
+Invalid projects
+---------------------------------------
+{none}
+
+
+Skipped projects
+---------------------------------------
+{none}
+
+
+Excluded projects
+---------------------------------------
+{none}
+
+
+=======
+Product projects
+---------------------------------------
+C:\Users\Franel\source\repos\Casse_briques\Casse_briques\Casse_briques.csproj
+
+
+Test projects
+---------------------------------------
+
+
+Invalid projects
+---------------------------------------
+{none}
+
+
+Skipped projects
+---------------------------------------
+{none}
+
+
+Excluded projects
+---------------------------------------
+{none}
+
+
+>>>>>>> 6afa81e4cd8c2141f3c08f9d57fd7c9b2cd46aae
+>>>>>>> b8053d46eb6d967618b083729549bf39179b8e68
+>>>>>>> refs/remotes/origin/main

@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> refs/remotes/origin/main
 ﻿using System;
 using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Input;
@@ -63,10 +67,17 @@ namespace Casse_briques
 
 
             // Si la balle touche la raquette, on la fait changer de sens
+<<<<<<< HEAD
             if (direction.Y > 0 && raquette.rectangle.Intersects(new Rectangle((int)position.X, (int)position.Y, texture2D.Width, texture2D.Height)))
             {
                 direction = new Vector2(direction.X, -direction.Y);
             }
+=======
+            /*if (direction.Y > 0 && raquette.rectangle.Intersects(new Rectangle((int)position.X, (int)position.Y, texture2D.Width, texture2D.Height)))
+            {
+                direction = new Vector2(direction.X, -direction.Y);
+            }*/
+>>>>>>> refs/remotes/origin/main
 
             if(CurrentGameState == GameStates.Playing)
             {
@@ -76,6 +87,7 @@ namespace Casse_briques
             base.Update(gameTime);
         }
 
+<<<<<<< HEAD
         public bool collision_brique(Brique brique, float multiplicateur_vitesse)
         {
             // Si la balle touche la brique, on la fait changer de sens
@@ -90,6 +102,8 @@ namespace Casse_briques
             return false;
         }
 
+=======
+>>>>>>> refs/remotes/origin/main
         public void reset()
         {
             CurrentGameState = GameStates.Paused;
@@ -99,3 +113,67 @@ namespace Casse_briques
         }
     }
 }
+<<<<<<< HEAD
+=======
+=======
+<<<<<<< HEAD
+﻿using System;
+using Microsoft.Xna.Framework;
+using Microsoft.Xna.Framework.Input;
+using Microsoft.Xna.Framework.Audio;
+
+namespace Casse_briques
+{
+    class Balle : Element2D
+    {
+
+        public enum GameStates { Paused, Playing }
+
+        public Balle(Game game, String texture, Raquette raquette) : base(game, texture, new Vector2(0, 0))
+        {
+            
+        }
+
+        public override void Initialize()
+        {
+            base.Initialize();
+        }
+
+        public override void Update(GameTime gameTime)
+        {
+            base.Update(gameTime);
+        }
+    }
+}
+=======
+﻿using System;
+using Microsoft.Xna.Framework;
+using Microsoft.Xna.Framework.Input;
+using Microsoft.Xna.Framework.Audio;
+
+namespace Casse_briques
+{
+    class Balle : Element2D
+    {
+
+        public enum GameStates { Paused, Playing }
+
+        public Balle(Game game, String texture, Raquette raquette) : base(game, texture, new Vector2(0, 0))
+        {
+            
+        }
+
+        public override void Initialize()
+        {
+            base.Initialize();
+        }
+
+        public override void Update(GameTime gameTime)
+        {
+            base.Update(gameTime);
+        }
+    }
+}
+>>>>>>> 6afa81e4cd8c2141f3c08f9d57fd7c9b2cd46aae
+>>>>>>> b8053d46eb6d967618b083729549bf39179b8e68
+>>>>>>> refs/remotes/origin/main

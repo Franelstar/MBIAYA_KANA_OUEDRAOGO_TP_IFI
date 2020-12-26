@@ -1,1 +1,13 @@
+<<<<<<< HEAD
 C:\Users\Franel\source\repos\Casse_briques\.sonarqube\out\0
+=======
+<<<<<<< HEAD
+C:\Users\Franel\source\repos\Casse_briques\.sonarqube\out\0
+=======
+<<<<<<< HEAD
+C:\Users\Franel\source\repos\Casse_briques\.sonarqube\out\0
+=======
+C:\Users\Franel\source\repos\Casse_briques\.sonarqube\out\0
+>>>>>>> 6afa81e4cd8c2141f3c08f9d57fd7c9b2cd46aae
+>>>>>>> b8053d46eb6d967618b083729549bf39179b8e68
+>>>>>>> refs/remotes/origin/main
