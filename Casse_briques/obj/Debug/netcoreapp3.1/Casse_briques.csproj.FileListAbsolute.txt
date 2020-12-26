@@ -1,3 +1,10 @@
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> refs/remotes/origin/main
+>>>>>>> 3d1d3daf9e9f22a34771a2b965b281f5ab84e897
 C:\Users\Franel\source\repos\Casse_briques\Casse_briques\bin\Debug\netcoreapp3.1\Casse_briques.exe
 C:\Users\Franel\source\repos\Casse_briques\Casse_briques\bin\Debug\netcoreapp3.1\Casse_briques.deps.json
 C:\Users\Franel\source\repos\Casse_briques\Casse_briques\bin\Debug\netcoreapp3.1\Casse_briques.runtimeconfig.json
@@ -47,3 +54,112 @@ C:\Users\Franel\source\repos\Casse_briques\Casse_briques\bin\Debug\netcoreapp3.1
 C:\Users\Franel\source\repos\Casse_briques\Casse_briques\bin\Debug\netcoreapp3.1\Content\sons\song_game.ogg
 C:\Users\Franel\source\repos\Casse_briques\Casse_briques\bin\Debug\netcoreapp3.1\Content\sons\song_game.xnb
 C:\Users\Franel\source\repos\Casse_briques\Casse_briques\bin\Debug\netcoreapp3.1\Content\sons\new_partie.xnb
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+=======
+<<<<<<< HEAD
+C:\Users\Franel\source\repos\Casse_briques\Casse_briques\bin\Debug\netcoreapp3.1\Casse_briques.exe
+C:\Users\Franel\source\repos\Casse_briques\Casse_briques\bin\Debug\netcoreapp3.1\Casse_briques.deps.json
+C:\Users\Franel\source\repos\Casse_briques\Casse_briques\bin\Debug\netcoreapp3.1\Casse_briques.runtimeconfig.json
+C:\Users\Franel\source\repos\Casse_briques\Casse_briques\bin\Debug\netcoreapp3.1\Casse_briques.runtimeconfig.dev.json
+C:\Users\Franel\source\repos\Casse_briques\Casse_briques\bin\Debug\netcoreapp3.1\Casse_briques.dll
+C:\Users\Franel\source\repos\Casse_briques\Casse_briques\bin\Debug\netcoreapp3.1\Casse_briques.pdb
+C:\Users\Franel\source\repos\Casse_briques\Casse_briques\bin\Debug\netcoreapp3.1\MonoGame.Framework.dll
+C:\Users\Franel\source\repos\Casse_briques\Casse_briques\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\Franel\source\repos\Casse_briques\Casse_briques\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libopenal.so.1
+C:\Users\Franel\source\repos\Casse_briques\Casse_briques\bin\Debug\netcoreapp3.1\runtimes\osx\native\libSDL2-2.0.0.dylib
+C:\Users\Franel\source\repos\Casse_briques\Casse_briques\bin\Debug\netcoreapp3.1\runtimes\osx\native\libopenal.1.dylib
+C:\Users\Franel\source\repos\Casse_briques\Casse_briques\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\SDL2.dll
+C:\Users\Franel\source\repos\Casse_briques\Casse_briques\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\soft_oal.dll
+C:\Users\Franel\source\repos\Casse_briques\Casse_briques\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\SDL2.dll
+C:\Users\Franel\source\repos\Casse_briques\Casse_briques\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\soft_oal.dll
+C:\Users\Franel\source\repos\Casse_briques\Casse_briques\obj\Debug\netcoreapp3.1\Casse_briques.csprojAssemblyReference.cache
+C:\Users\Franel\source\repos\Casse_briques\Casse_briques\obj\Debug\netcoreapp3.1\Casse_briques.AssemblyInfoInputs.cache
+C:\Users\Franel\source\repos\Casse_briques\Casse_briques\obj\Debug\netcoreapp3.1\Casse_briques.AssemblyInfo.cs
+C:\Users\Franel\source\repos\Casse_briques\Casse_briques\obj\Debug\netcoreapp3.1\Casse_briques.csproj.CoreCompileInputs.cache
+C:\Users\Franel\source\repos\Casse_briques\Casse_briques\obj\Debug\netcoreapp3.1\Casse_briques.csproj.CopyComplete
+C:\Users\Franel\source\repos\Casse_briques\Casse_briques\obj\Debug\netcoreapp3.1\Casse_briques.dll
+C:\Users\Franel\source\repos\Casse_briques\Casse_briques\obj\Debug\netcoreapp3.1\Casse_briques.pdb
+C:\Users\Franel\source\repos\Casse_briques\Casse_briques\obj\Debug\netcoreapp3.1\Casse_briques.genruntimeconfig.cache
+C:\Users\Franel\source\repos\Casse_briques\Casse_briques\bin\Debug\netcoreapp3.1\Content\background.xnb
+C:\Users\Franel\source\repos\Casse_briques\Casse_briques\bin\Debug\netcoreapp3.1\Content\balle.xnb
+C:\Users\Franel\source\repos\Casse_briques\Casse_briques\bin\Debug\netcoreapp3.1\Content\brique.xnb
+C:\Users\Franel\source\repos\Casse_briques\Casse_briques\bin\Debug\netcoreapp3.1\Content\raquette.xnb
+C:\Users\Franel\source\repos\Casse_briques\Casse_briques\bin\Debug\netcoreapp3.1\levels\1.txt
+C:\Users\Franel\source\repos\Casse_briques\Casse_briques\bin\Debug\netcoreapp3.1\Content\briqueVitesse.xnb
+C:\Users\Franel\source\repos\Casse_briques\Casse_briques\bin\Debug\netcoreapp3.1\Content\SpriteFont\GameOver.xnb
+C:\Users\Franel\source\repos\Casse_briques\Casse_briques\bin\Debug\netcoreapp3.1\Content\SpriteFont\Score.xnb
+C:\Users\Franel\source\repos\Casse_briques\Casse_briques\bin\Debug\netcoreapp3.1\Content\life.xnb
+C:\Users\Franel\source\repos\Casse_briques\Casse_briques\bin\Debug\netcoreapp3.1\levels\10.txt
+C:\Users\Franel\source\repos\Casse_briques\Casse_briques\bin\Debug\netcoreapp3.1\levels\2.txt
+C:\Users\Franel\source\repos\Casse_briques\Casse_briques\bin\Debug\netcoreapp3.1\levels\3.txt
+C:\Users\Franel\source\repos\Casse_briques\Casse_briques\bin\Debug\netcoreapp3.1\levels\4.txt
+C:\Users\Franel\source\repos\Casse_briques\Casse_briques\bin\Debug\netcoreapp3.1\levels\5.txt
+C:\Users\Franel\source\repos\Casse_briques\Casse_briques\bin\Debug\netcoreapp3.1\levels\6.txt
+C:\Users\Franel\source\repos\Casse_briques\Casse_briques\bin\Debug\netcoreapp3.1\levels\7.txt
+C:\Users\Franel\source\repos\Casse_briques\Casse_briques\bin\Debug\netcoreapp3.1\levels\8.txt
+C:\Users\Franel\source\repos\Casse_briques\Casse_briques\bin\Debug\netcoreapp3.1\levels\9.txt
+C:\Users\Franel\source\repos\Casse_briques\Casse_briques\bin\Debug\netcoreapp3.1\Content\sons\collision_brique.wav
+C:\Users\Franel\source\repos\Casse_briques\Casse_briques\bin\Debug\netcoreapp3.1\Content\sons\collision_brique.xnb
+C:\Users\Franel\source\repos\Casse_briques\Casse_briques\bin\Debug\netcoreapp3.1\Content\sons\collision_brique_vitesse.xnb
+C:\Users\Franel\source\repos\Casse_briques\Casse_briques\bin\Debug\netcoreapp3.1\Content\sons\collision_mur.xnb
+C:\Users\Franel\source\repos\Casse_briques\Casse_briques\bin\Debug\netcoreapp3.1\Content\sons\life.xnb
+C:\Users\Franel\source\repos\Casse_briques\Casse_briques\bin\Debug\netcoreapp3.1\Content\sons\song_game.ogg
+C:\Users\Franel\source\repos\Casse_briques\Casse_briques\bin\Debug\netcoreapp3.1\Content\sons\song_game.xnb
+C:\Users\Franel\source\repos\Casse_briques\Casse_briques\bin\Debug\netcoreapp3.1\Content\sons\new_partie.xnb
+=======
+C:\Users\Franel\source\repos\Casse_briques\Casse_briques\bin\Debug\netcoreapp3.1\Casse_briques.exe
+C:\Users\Franel\source\repos\Casse_briques\Casse_briques\bin\Debug\netcoreapp3.1\Casse_briques.deps.json
+C:\Users\Franel\source\repos\Casse_briques\Casse_briques\bin\Debug\netcoreapp3.1\Casse_briques.runtimeconfig.json
+C:\Users\Franel\source\repos\Casse_briques\Casse_briques\bin\Debug\netcoreapp3.1\Casse_briques.runtimeconfig.dev.json
+C:\Users\Franel\source\repos\Casse_briques\Casse_briques\bin\Debug\netcoreapp3.1\Casse_briques.dll
+C:\Users\Franel\source\repos\Casse_briques\Casse_briques\bin\Debug\netcoreapp3.1\Casse_briques.pdb
+C:\Users\Franel\source\repos\Casse_briques\Casse_briques\bin\Debug\netcoreapp3.1\MonoGame.Framework.dll
+C:\Users\Franel\source\repos\Casse_briques\Casse_briques\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\Franel\source\repos\Casse_briques\Casse_briques\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libopenal.so.1
+C:\Users\Franel\source\repos\Casse_briques\Casse_briques\bin\Debug\netcoreapp3.1\runtimes\osx\native\libSDL2-2.0.0.dylib
+C:\Users\Franel\source\repos\Casse_briques\Casse_briques\bin\Debug\netcoreapp3.1\runtimes\osx\native\libopenal.1.dylib
+C:\Users\Franel\source\repos\Casse_briques\Casse_briques\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\SDL2.dll
+C:\Users\Franel\source\repos\Casse_briques\Casse_briques\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\soft_oal.dll
+C:\Users\Franel\source\repos\Casse_briques\Casse_briques\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\SDL2.dll
+C:\Users\Franel\source\repos\Casse_briques\Casse_briques\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\soft_oal.dll
+C:\Users\Franel\source\repos\Casse_briques\Casse_briques\obj\Debug\netcoreapp3.1\Casse_briques.csprojAssemblyReference.cache
+C:\Users\Franel\source\repos\Casse_briques\Casse_briques\obj\Debug\netcoreapp3.1\Casse_briques.AssemblyInfoInputs.cache
+C:\Users\Franel\source\repos\Casse_briques\Casse_briques\obj\Debug\netcoreapp3.1\Casse_briques.AssemblyInfo.cs
+C:\Users\Franel\source\repos\Casse_briques\Casse_briques\obj\Debug\netcoreapp3.1\Casse_briques.csproj.CoreCompileInputs.cache
+C:\Users\Franel\source\repos\Casse_briques\Casse_briques\obj\Debug\netcoreapp3.1\Casse_briques.csproj.CopyComplete
+C:\Users\Franel\source\repos\Casse_briques\Casse_briques\obj\Debug\netcoreapp3.1\Casse_briques.dll
+C:\Users\Franel\source\repos\Casse_briques\Casse_briques\obj\Debug\netcoreapp3.1\Casse_briques.pdb
+C:\Users\Franel\source\repos\Casse_briques\Casse_briques\obj\Debug\netcoreapp3.1\Casse_briques.genruntimeconfig.cache
+C:\Users\Franel\source\repos\Casse_briques\Casse_briques\bin\Debug\netcoreapp3.1\Content\background.xnb
+C:\Users\Franel\source\repos\Casse_briques\Casse_briques\bin\Debug\netcoreapp3.1\Content\balle.xnb
+C:\Users\Franel\source\repos\Casse_briques\Casse_briques\bin\Debug\netcoreapp3.1\Content\brique.xnb
+C:\Users\Franel\source\repos\Casse_briques\Casse_briques\bin\Debug\netcoreapp3.1\Content\raquette.xnb
+C:\Users\Franel\source\repos\Casse_briques\Casse_briques\bin\Debug\netcoreapp3.1\levels\1.txt
+C:\Users\Franel\source\repos\Casse_briques\Casse_briques\bin\Debug\netcoreapp3.1\Content\briqueVitesse.xnb
+C:\Users\Franel\source\repos\Casse_briques\Casse_briques\bin\Debug\netcoreapp3.1\Content\SpriteFont\GameOver.xnb
+C:\Users\Franel\source\repos\Casse_briques\Casse_briques\bin\Debug\netcoreapp3.1\Content\SpriteFont\Score.xnb
+C:\Users\Franel\source\repos\Casse_briques\Casse_briques\bin\Debug\netcoreapp3.1\Content\life.xnb
+C:\Users\Franel\source\repos\Casse_briques\Casse_briques\bin\Debug\netcoreapp3.1\levels\10.txt
+C:\Users\Franel\source\repos\Casse_briques\Casse_briques\bin\Debug\netcoreapp3.1\levels\2.txt
+C:\Users\Franel\source\repos\Casse_briques\Casse_briques\bin\Debug\netcoreapp3.1\levels\3.txt
+C:\Users\Franel\source\repos\Casse_briques\Casse_briques\bin\Debug\netcoreapp3.1\levels\4.txt
+C:\Users\Franel\source\repos\Casse_briques\Casse_briques\bin\Debug\netcoreapp3.1\levels\5.txt
+C:\Users\Franel\source\repos\Casse_briques\Casse_briques\bin\Debug\netcoreapp3.1\levels\6.txt
+C:\Users\Franel\source\repos\Casse_briques\Casse_briques\bin\Debug\netcoreapp3.1\levels\7.txt
+C:\Users\Franel\source\repos\Casse_briques\Casse_briques\bin\Debug\netcoreapp3.1\levels\8.txt
+C:\Users\Franel\source\repos\Casse_briques\Casse_briques\bin\Debug\netcoreapp3.1\levels\9.txt
+C:\Users\Franel\source\repos\Casse_briques\Casse_briques\bin\Debug\netcoreapp3.1\Content\sons\collision_brique.wav
+C:\Users\Franel\source\repos\Casse_briques\Casse_briques\bin\Debug\netcoreapp3.1\Content\sons\collision_brique.xnb
+C:\Users\Franel\source\repos\Casse_briques\Casse_briques\bin\Debug\netcoreapp3.1\Content\sons\collision_brique_vitesse.xnb
+C:\Users\Franel\source\repos\Casse_briques\Casse_briques\bin\Debug\netcoreapp3.1\Content\sons\collision_mur.xnb
+C:\Users\Franel\source\repos\Casse_briques\Casse_briques\bin\Debug\netcoreapp3.1\Content\sons\life.xnb
+C:\Users\Franel\source\repos\Casse_briques\Casse_briques\bin\Debug\netcoreapp3.1\Content\sons\song_game.ogg
+C:\Users\Franel\source\repos\Casse_briques\Casse_briques\bin\Debug\netcoreapp3.1\Content\sons\song_game.xnb
+C:\Users\Franel\source\repos\Casse_briques\Casse_briques\bin\Debug\netcoreapp3.1\Content\sons\new_partie.xnb
+>>>>>>> 6afa81e4cd8c2141f3c08f9d57fd7c9b2cd46aae
+>>>>>>> b8053d46eb6d967618b083729549bf39179b8e68
+>>>>>>> refs/remotes/origin/main
+>>>>>>> 3d1d3daf9e9f22a34771a2b965b281f5ab84e897

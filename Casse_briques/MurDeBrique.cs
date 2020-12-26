@@ -1,3 +1,10 @@
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> refs/remotes/origin/main
+>>>>>>> 3d1d3daf9e9f22a34771a2b965b281f5ab84e897
 ﻿using System.Collections.Generic;
 using System.IO;
 using Microsoft.Xna.Framework;
@@ -8,6 +15,10 @@ namespace Casse_briques
     class MurDeBrique : GameComponent
     {
         private List<Brique> briques;
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 3d1d3daf9e9f22a34771a2b965b281f5ab84e897
         private readonly int width;
         private readonly int height;
         private int level;
@@ -16,11 +27,23 @@ namespace Casse_briques
         {
             width = 8;
             height = 15;
+<<<<<<< HEAD
+=======
+=======
+
+        public MurDeBrique(Game game) : base(game)
+        {
+>>>>>>> refs/remotes/origin/main
+>>>>>>> 3d1d3daf9e9f22a34771a2b965b281f5ab84e897
         }
 
         public override void Initialize()
         {
             base.Initialize();
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 3d1d3daf9e9f22a34771a2b965b281f5ab84e897
             level = 0;
             this.briques = new List<Brique>();
         }
@@ -43,7 +66,10 @@ namespace Casse_briques
             {
                 level++;
                 raquette.reset();
+<<<<<<< HEAD
                 balle.reset();
+=======
+>>>>>>> 3d1d3daf9e9f22a34771a2b965b281f5ab84e897
 
                 if (level > maxLevel)
                     return level;
@@ -92,6 +118,7 @@ namespace Casse_briques
                 return result;
             }
         }
+<<<<<<< HEAD
 
         public int detection_collision(Balle balle)
         {
@@ -118,3 +145,62 @@ namespace Casse_briques
         }
     }
 }
+=======
+    }
+}
+=======
+            this.briques = new List<Brique>();
+        }
+    }
+}
+=======
+<<<<<<< HEAD
+﻿using System.Collections.Generic;
+using System.IO;
+using Microsoft.Xna.Framework;
+using Microsoft.Xna.Framework.Audio;
+
+namespace Casse_briques
+{
+    class MurDeBrique : GameComponent
+    {
+        private List<Brique> briques;
+
+        public MurDeBrique(Game game) : base(game)
+        {
+        }
+
+        public override void Initialize()
+        {
+            base.Initialize();
+            this.briques = new List<Brique>();
+        }
+    }
+}
+=======
+﻿using System.Collections.Generic;
+using System.IO;
+using Microsoft.Xna.Framework;
+using Microsoft.Xna.Framework.Audio;
+
+namespace Casse_briques
+{
+    class MurDeBrique : GameComponent
+    {
+        private List<Brique> briques;
+
+        public MurDeBrique(Game game) : base(game)
+        {
+        }
+
+        public override void Initialize()
+        {
+            base.Initialize();
+            this.briques = new List<Brique>();
+        }
+    }
+}
+>>>>>>> 6afa81e4cd8c2141f3c08f9d57fd7c9b2cd46aae
+>>>>>>> b8053d46eb6d967618b083729549bf39179b8e68
+>>>>>>> refs/remotes/origin/main
+>>>>>>> 3d1d3daf9e9f22a34771a2b965b281f5ab84e897
