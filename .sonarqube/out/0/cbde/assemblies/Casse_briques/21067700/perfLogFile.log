@@ -1,0 +1,19 @@
+File name	Line	Function	Duration[ms]	Explored nodes
+C:\Users\Franel\source\repos\Casse_briques\Casse_briques\Balle.cs	24	_Casse_briques.Balle.Initialize$$	0	3
+C:\Users\Franel\source\repos\Casse_briques\Casse_briques\Balle.cs	85	_Casse_briques.Balle.collision_brique$Casse_briques.Brique.float$	0	4
+C:\Users\Franel\source\repos\Casse_briques\Casse_briques\Balle.cs	116	_Casse_briques.Balle.reset$$	0	3
+C:\Users\Franel\source\repos\Casse_briques\Casse_briques\BriqueVitesse.cs	13	_Casse_briques.BriqueVitesse.Initialize$$	0	3
+C:\Users\Franel\source\repos\Casse_briques\Casse_briques\Brique.cs	17	_Casse_briques.Brique.Initialize$$	0	3
+C:\Users\Franel\source\repos\Casse_briques\Casse_briques\Brique.cs	41	_Casse_briques.Brique.playSon$$	0	3
+C:\Users\Franel\source\repos\Casse_briques\Casse_briques\CasseBrique.cs	34	_Casse_briques.CasseBrique.Initialize$$	0	3
+C:\Users\Franel\source\repos\Casse_briques\Casse_briques\CasseBrique.cs	66	_Casse_briques.CasseBrique.LoadContent$$	0	3
+C:\Users\Franel\source\repos\Casse_briques\Casse_briques\CasseBrique.cs	142	_Casse_briques.CasseBrique.Draw$Microsoft.Xna.Framework.GameTime$	26	503
+C:\Users\Franel\source\repos\Casse_briques\Casse_briques\Element2D.cs	23	_Casse_briques.Element2D.Initialize$$	0	3
+C:\Users\Franel\source\repos\Casse_briques\Casse_briques\Element2D.cs	30	_Casse_briques.Element2D.Draw$Microsoft.Xna.Framework.GameTime$	0	7
+C:\Users\Franel\source\repos\Casse_briques\Casse_briques\ElementText2D.cs	23	_Casse_briques.ElementText2D.LoadContent$$	0	3
+C:\Users\Franel\source\repos\Casse_briques\Casse_briques\ElementText2D.cs	31	_Casse_briques.ElementText2D.Draw$Microsoft.Xna.Framework.GameTime$	0	3
+C:\Users\Franel\source\repos\Casse_briques\Casse_briques\Hud.cs	11	_Casse_briques.Hud.Initialize$$	0	3
+C:\Users\Franel\source\repos\Casse_briques\Casse_briques\Hud.cs	18	_Casse_briques.Hud.update_text$string$	0	3
+C:\Users\Franel\source\repos\Casse_briques\Casse_briques\MurDeBrique.cs	21	_Casse_briques.MurDeBrique.Initialize$$	0	3
+C:\Users\Franel\source\repos\Casse_briques\Casse_briques\Raquette.cs	13	_Casse_briques.Raquette.Update$Microsoft.Xna.Framework.GameTime$	24	902
+C:\Users\Franel\source\repos\Casse_briques\Casse_briques\Raquette.cs	43	_Casse_briques.Raquette.reset$$	0	3

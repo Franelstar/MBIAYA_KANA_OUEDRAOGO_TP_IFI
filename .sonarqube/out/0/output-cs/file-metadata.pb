@@ -1,0 +1,13 @@
+J
+AC:\Users\Franel\source\repos\Casse_briques\Casse_briques\Balle.csutf-8K
+BC:\Users\Franel\source\repos\Casse_briques\Casse_briques\Brique.csutf-8R
+IC:\Users\Franel\source\repos\Casse_briques\Casse_briques\BriqueVitesse.csutf-8P
+GC:\Users\Franel\source\repos\Casse_briques\Casse_briques\CasseBrique.csutf-8N
+EC:\Users\Franel\source\repos\Casse_briques\Casse_briques\Element2D.csutf-8R
+IC:\Users\Franel\source\repos\Casse_briques\Casse_briques\ElementText2D.csutf-8H
+?C:\Users\Franel\source\repos\Casse_briques\Casse_briques\Hud.csutf-8P
+GC:\Users\Franel\source\repos\Casse_briques\Casse_briques\MurDeBrique.csutf-8L
+CC:\Users\Franel\source\repos\Casse_briques\Casse_briques\Program.csutf-8M
+DC:\Users\Franel\source\repos\Casse_briques\Casse_briques\Raquette.csutf-8Š
+C:\Users\Franel\source\repos\Casse_briques\Casse_briques\obj\Debug\netcoreapp3.1\.NETCoreApp,Version=v3.1.AssemblyAttributes.csutf-8y
+nC:\Users\Franel\source\repos\Casse_briques\Casse_briques\obj\Debug\netcoreapp3.1\Casse_briques.AssemblyInfo.csutf-8
