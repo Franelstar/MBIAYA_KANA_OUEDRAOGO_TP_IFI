@@ -1,0 +1,3 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/Franel/source/repos/Casse_briques_raquette/Casse_briques/Content/background.png","C:/Users/Franel/source/repos/Casse_briques_raquette/Casse_briques/Content/bin/DesktopGL/background.xnb","TextureProcessor","Texture2DContent",228255,1560085,0.6361156
+"C:/Users/Franel/source/repos/Casse_briques_raquette/Casse_briques/Content/raquette.png","C:/Users/Franel/source/repos/Casse_briques_raquette/Casse_briques/Content/bin/DesktopGL/raquette.xnb","TextureProcessor","Texture2DContent",1622,4285,0.0283949
