@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "version": 2,
   "dgSpecHash": "HZcrIEa8zMmRbWhDPEUL/fRtvh/x8Be0vIzX8gD7Zzjsk2zAwZi2YdxlJzuk/2T+lbdUP0eyu9WWDL+Kp4ywTg==",
@@ -8,4 +9,29 @@
     "C:\\Users\\Franel\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.0.1641\\monogame.framework.desktopgl.3.8.0.1641.nupkg.sha512"
   ],
   "logs": []
+=======
+<<<<<<< HEAD
+{
+  "version": 2,
+  "dgSpecHash": "HZcrIEa8zMmRbWhDPEUL/fRtvh/x8Be0vIzX8gD7Zzjsk2zAwZi2YdxlJzuk/2T+lbdUP0eyu9WWDL+Kp4ywTg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Franel\\source\\repos\\Casse_briques\\Casse_briques\\Casse_briques.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Franel\\.nuget\\packages\\monogame.content.builder.task\\3.8.0.1641\\monogame.content.builder.task.3.8.0.1641.nupkg.sha512",
+    "C:\\Users\\Franel\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.0.1641\\monogame.framework.desktopgl.3.8.0.1641.nupkg.sha512"
+  ],
+  "logs": []
+=======
+{
+  "version": 2,
+  "dgSpecHash": "HZcrIEa8zMmRbWhDPEUL/fRtvh/x8Be0vIzX8gD7Zzjsk2zAwZi2YdxlJzuk/2T+lbdUP0eyu9WWDL+Kp4ywTg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Franel\\source\\repos\\Casse_briques\\Casse_briques\\Casse_briques.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Franel\\.nuget\\packages\\monogame.content.builder.task\\3.8.0.1641\\monogame.content.builder.task.3.8.0.1641.nupkg.sha512",
+    "C:\\Users\\Franel\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.0.1641\\monogame.framework.desktopgl.3.8.0.1641.nupkg.sha512"
+  ],
+  "logs": []
+>>>>>>> 6afa81e4cd8c2141f3c08f9d57fd7c9b2cd46aae
+>>>>>>> b8053d46eb6d967618b083729549bf39179b8e68
 }
