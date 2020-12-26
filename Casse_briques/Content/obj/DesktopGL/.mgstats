@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
 "C:/Users/Franel/source/repos/Casse_briques/Casse_briques/Content/background.png","C:/Users/Franel/source/repos/Casse_briques/Casse_briques/Content/bin/DesktopGL/background.xnb","TextureProcessor","Texture2DContent",228255,1560085,0.3374816
 "C:/Users/Franel/source/repos/Casse_briques/Casse_briques/Content/balle.png","C:/Users/Franel/source/repos/Casse_briques/Casse_briques/Content/bin/DesktopGL/balle.xnb","TextureProcessor","Texture2DContent",1309,1109,0.0165141
@@ -11,3 +12,54 @@ Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Siz
 "C:/Users/Franel/source/repos/Casse_briques/Casse_briques/Content/sons/life.wav","C:/Users/Franel/source/repos/Casse_briques/Casse_briques/Content/bin/DesktopGL/sons/life.xnb","SoundEffectProcessor","SoundEffectContent",82127,54827,0.46662
 "C:/Users/Franel/source/repos/Casse_briques/Casse_briques/Content/sons/new_partie.wav","C:/Users/Franel/source/repos/Casse_briques/Casse_briques/Content/bin/DesktopGL/sons/new_partie.xnb","SoundEffectProcessor","SoundEffectContent",51596,50791,0.4729174
 "C:/Users/Franel/source/repos/Casse_briques/Casse_briques/Content/sons/song_game.mp3","C:/Users/Franel/source/repos/Casse_briques/Casse_briques/Content/bin/DesktopGL/sons/song_game.xnb","SongProcessor","SongContent",1537930,127,3.126284
+=======
+<<<<<<< HEAD
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/Franel/source/repos/Casse_briques/Casse_briques/Content/background.png","C:/Users/Franel/source/repos/Casse_briques/Casse_briques/Content/bin/DesktopGL/background.xnb","TextureProcessor","Texture2DContent",228255,1560085,0.3374816
+"C:/Users/Franel/source/repos/Casse_briques/Casse_briques/Content/balle.png","C:/Users/Franel/source/repos/Casse_briques/Casse_briques/Content/bin/DesktopGL/balle.xnb","TextureProcessor","Texture2DContent",1309,1109,0.0165141
+"C:/Users/Franel/source/repos/Casse_briques/Casse_briques/Content/brique.png","C:/Users/Franel/source/repos/Casse_briques/Casse_briques/Content/bin/DesktopGL/brique.xnb","TextureProcessor","Texture2DContent",158,4285,0.2337977
+"C:/Users/Franel/source/repos/Casse_briques/Casse_briques/Content/briqueVitesse.png","C:/Users/Franel/source/repos/Casse_briques/Casse_briques/Content/bin/DesktopGL/briqueVitesse.xnb","TextureProcessor","Texture2DContent",1106,4285,0.0114028
+"C:/Users/Franel/source/repos/Casse_briques/Casse_briques/Content/life.png","C:/Users/Franel/source/repos/Casse_briques/Casse_briques/Content/bin/DesktopGL/life.xnb","TextureProcessor","Texture2DContent",1325,2585,0.2528763
+"C:/Users/Franel/source/repos/Casse_briques/Casse_briques/Content/raquette.png","C:/Users/Franel/source/repos/Casse_briques/Casse_briques/Content/bin/DesktopGL/raquette.xnb","TextureProcessor","Texture2DContent",1622,4285,0.0515568
+"C:/Users/Franel/source/repos/Casse_briques/Casse_briques/Content/sons/collision_brique.wav","C:/Users/Franel/source/repos/Casse_briques/Casse_briques/Content/bin/DesktopGL/sons/collision_brique.xnb","SoundEffectProcessor","SoundEffectContent",12080,8105,0.8712402
+"C:/Users/Franel/source/repos/Casse_briques/Casse_briques/Content/sons/collision_brique_vitesse.wav","C:/Users/Franel/source/repos/Casse_briques/Casse_briques/Content/bin/DesktopGL/sons/collision_brique_vitesse.xnb","SoundEffectProcessor","SoundEffectContent",317111,211459,0.4651835
+"C:/Users/Franel/source/repos/Casse_briques/Casse_briques/Content/sons/collision_mur.wav","C:/Users/Franel/source/repos/Casse_briques/Casse_briques/Content/bin/DesktopGL/sons/collision_mur.xnb","SoundEffectProcessor","SoundEffectContent",75572,29405,0.2668011
+"C:/Users/Franel/source/repos/Casse_briques/Casse_briques/Content/sons/life.wav","C:/Users/Franel/source/repos/Casse_briques/Casse_briques/Content/bin/DesktopGL/sons/life.xnb","SoundEffectProcessor","SoundEffectContent",82127,54827,0.46662
+"C:/Users/Franel/source/repos/Casse_briques/Casse_briques/Content/sons/new_partie.wav","C:/Users/Franel/source/repos/Casse_briques/Casse_briques/Content/bin/DesktopGL/sons/new_partie.xnb","SoundEffectProcessor","SoundEffectContent",51596,50791,0.4729174
+"C:/Users/Franel/source/repos/Casse_briques/Casse_briques/Content/sons/song_game.mp3","C:/Users/Franel/source/repos/Casse_briques/Casse_briques/Content/bin/DesktopGL/sons/song_game.xnb","SongProcessor","SongContent",1537930,127,3.126284
+=======
+<<<<<<< HEAD
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/Franel/source/repos/Casse_briques _gestion des collisions/Casse_briques/Content/background.png","C:/Users/Franel/source/repos/Casse_briques _gestion des collisions/Casse_briques/Content/bin/DesktopGL/background.xnb","TextureProcessor","Texture2DContent",228255,1560085,0.3163542
+"C:/Users/Franel/source/repos/Casse_briques _gestion des collisions/Casse_briques/Content/balle.png","C:/Users/Franel/source/repos/Casse_briques _gestion des collisions/Casse_briques/Content/bin/DesktopGL/balle.xnb","TextureProcessor","Texture2DContent",1309,1109,0.0169516
+"C:/Users/Franel/source/repos/Casse_briques _gestion des collisions/Casse_briques/Content/brique.png","C:/Users/Franel/source/repos/Casse_briques _gestion des collisions/Casse_briques/Content/bin/DesktopGL/brique.xnb","TextureProcessor","Texture2DContent",158,4285,0.015596
+"C:/Users/Franel/source/repos/Casse_briques _gestion des collisions/Casse_briques/Content/briqueVitesse.png","C:/Users/Franel/source/repos/Casse_briques _gestion des collisions/Casse_briques/Content/bin/DesktopGL/briqueVitesse.xnb","TextureProcessor","Texture2DContent",1106,4285,0.0184907
+"C:/Users/Franel/source/repos/Casse_briques _gestion des collisions/Casse_briques/Content/raquette.png","C:/Users/Franel/source/repos/Casse_briques _gestion des collisions/Casse_briques/Content/bin/DesktopGL/raquette.xnb","TextureProcessor","Texture2DContent",1622,4285,0.0135961
+=======
+<<<<<<< HEAD
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/Franel/source/repos/Casse_briques_brique_sans_collison/Casse_briques/Content/background.png","C:/Users/Franel/source/repos/Casse_briques_brique_sans_collison/Casse_briques/Content/bin/DesktopGL/background.xnb","TextureProcessor","Texture2DContent",228255,1560085,0.3442426
+"C:/Users/Franel/source/repos/Casse_briques_brique_sans_collison/Casse_briques/Content/balle.png","C:/Users/Franel/source/repos/Casse_briques_brique_sans_collison/Casse_briques/Content/bin/DesktopGL/balle.xnb","TextureProcessor","Texture2DContent",1309,1109,0.0139316
+"C:/Users/Franel/source/repos/Casse_briques_brique_sans_collison/Casse_briques/Content/brique.png","C:/Users/Franel/source/repos/Casse_briques_brique_sans_collison/Casse_briques/Content/bin/DesktopGL/brique.xnb","TextureProcessor","Texture2DContent",158,4285,0.0260259
+"C:/Users/Franel/source/repos/Casse_briques_brique_sans_collison/Casse_briques/Content/briqueVitesse.png","C:/Users/Franel/source/repos/Casse_briques_brique_sans_collison/Casse_briques/Content/bin/DesktopGL/briqueVitesse.xnb","TextureProcessor","Texture2DContent",1106,4285,0.0342951
+"C:/Users/Franel/source/repos/Casse_briques_brique_sans_collison/Casse_briques/Content/raquette.png","C:/Users/Franel/source/repos/Casse_briques_brique_sans_collison/Casse_briques/Content/bin/DesktopGL/raquette.xnb","TextureProcessor","Texture2DContent",1622,4285,0.0170068
+=======
+<<<<<<< HEAD
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/Franel/source/repos/Casse_briques_balle/Casse_briques/Content/background.png","C:/Users/Franel/source/repos/Casse_briques_balle/Casse_briques/Content/bin/DesktopGL/background.xnb","TextureProcessor","Texture2DContent",228255,1560085,0.3248058
+"C:/Users/Franel/source/repos/Casse_briques_balle/Casse_briques/Content/balle.png","C:/Users/Franel/source/repos/Casse_briques_balle/Casse_briques/Content/bin/DesktopGL/balle.xnb","TextureProcessor","Texture2DContent",1309,1109,0.0241025
+"C:/Users/Franel/source/repos/Casse_briques_balle/Casse_briques/Content/raquette.png","C:/Users/Franel/source/repos/Casse_briques_balle/Casse_briques/Content/bin/DesktopGL/raquette.xnb","TextureProcessor","Texture2DContent",1622,4285,0.014876
+=======
+<<<<<<< HEAD
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/Franel/source/repos/Casse_briques_raquette/Casse_briques/Content/background.png","C:/Users/Franel/source/repos/Casse_briques_raquette/Casse_briques/Content/bin/DesktopGL/background.xnb","TextureProcessor","Texture2DContent",228255,1560085,0.6361156
+"C:/Users/Franel/source/repos/Casse_briques_raquette/Casse_briques/Content/raquette.png","C:/Users/Franel/source/repos/Casse_briques_raquette/Casse_briques/Content/bin/DesktopGL/raquette.xnb","TextureProcessor","Texture2DContent",1622,4285,0.0283949
+=======
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/Franel/source/repos/Casse_briques_init/Casse_briques/Content/background.png","C:/Users/Franel/source/repos/Casse_briques_init/Casse_briques/Content/bin/DesktopGL/background.xnb","TextureProcessor","Texture2DContent",228255,1560085,0.3238806
+>>>>>>> 6afa81e4cd8c2141f3c08f9d57fd7c9b2cd46aae
+>>>>>>> b8053d46eb6d967618b083729549bf39179b8e68
+>>>>>>> refs/remotes/origin/main
+>>>>>>> 3d1d3daf9e9f22a34771a2b965b281f5ab84e897
+>>>>>>> 1b408131c77a99fc5d8b8485f833dce5d0f16c63
+>>>>>>> 83d6fb56b6aadf27069ac72605997b33c28b0d01

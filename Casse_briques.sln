@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
@@ -23,3 +24,104 @@ Global
 		SolutionGuid = {C505A0D6-6B68-426A-9696-3A0087A4BD44}
 	EndGlobalSection
 EndGlobal
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> refs/remotes/origin/main
+>>>>>>> 3d1d3daf9e9f22a34771a2b965b281f5ab84e897
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Casse_briques", "Casse_briques\Casse_briques.csproj", "{64BC6D98-AA1F-47CD-9DD5-4F84E22E58A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64BC6D98-AA1F-47CD-9DD5-4F84E22E58A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64BC6D98-AA1F-47CD-9DD5-4F84E22E58A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64BC6D98-AA1F-47CD-9DD5-4F84E22E58A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64BC6D98-AA1F-47CD-9DD5-4F84E22E58A9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C505A0D6-6B68-426A-9696-3A0087A4BD44}
+	EndGlobalSection
+EndGlobal
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+=======
+<<<<<<< HEAD
+>>>>>>> 1b408131c77a99fc5d8b8485f833dce5d0f16c63
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Casse_briques", "Casse_briques\Casse_briques.csproj", "{64BC6D98-AA1F-47CD-9DD5-4F84E22E58A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64BC6D98-AA1F-47CD-9DD5-4F84E22E58A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64BC6D98-AA1F-47CD-9DD5-4F84E22E58A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64BC6D98-AA1F-47CD-9DD5-4F84E22E58A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64BC6D98-AA1F-47CD-9DD5-4F84E22E58A9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C505A0D6-6B68-426A-9696-3A0087A4BD44}
+	EndGlobalSection
+EndGlobal
+<<<<<<< HEAD
+=======
+=======
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Casse_briques", "Casse_briques\Casse_briques.csproj", "{64BC6D98-AA1F-47CD-9DD5-4F84E22E58A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64BC6D98-AA1F-47CD-9DD5-4F84E22E58A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64BC6D98-AA1F-47CD-9DD5-4F84E22E58A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64BC6D98-AA1F-47CD-9DD5-4F84E22E58A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64BC6D98-AA1F-47CD-9DD5-4F84E22E58A9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C505A0D6-6B68-426A-9696-3A0087A4BD44}
+	EndGlobalSection
+EndGlobal
+>>>>>>> 6afa81e4cd8c2141f3c08f9d57fd7c9b2cd46aae
+>>>>>>> b8053d46eb6d967618b083729549bf39179b8e68
+>>>>>>> refs/remotes/origin/main
+>>>>>>> 3d1d3daf9e9f22a34771a2b965b281f5ab84e897
+>>>>>>> 1b408131c77a99fc5d8b8485f833dce5d0f16c63
+>>>>>>> 83d6fb56b6aadf27069ac72605997b33c28b0d01
