@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
 <Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
@@ -7,4 +8,15 @@
     <Import Project="$(NuGetPackageRoot)monogame.framework.desktopgl\3.8.0.1641\build\MonoGame.Framework.DesktopGL.targets" Condition="Exists('$(NuGetPackageRoot)monogame.framework.desktopgl\3.8.0.1641\build\MonoGame.Framework.DesktopGL.targets')" />
     <Import Project="$(NuGetPackageRoot)monogame.content.builder.task\3.8.0.1641\build\MonoGame.Content.Builder.Task.targets" Condition="Exists('$(NuGetPackageRoot)monogame.content.builder.task\3.8.0.1641\build\MonoGame.Content.Builder.Task.targets')" />
   </ImportGroup>
+=======
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
+  </PropertyGroup>
+  <ImportGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <Import Project="$(NuGetPackageRoot)monogame.framework.desktopgl\3.8.0.1641\build\MonoGame.Framework.DesktopGL.targets" Condition="Exists('$(NuGetPackageRoot)monogame.framework.desktopgl\3.8.0.1641\build\MonoGame.Framework.DesktopGL.targets')" />
+    <Import Project="$(NuGetPackageRoot)monogame.content.builder.task\3.8.0.1641\build\MonoGame.Content.Builder.Task.targets" Condition="Exists('$(NuGetPackageRoot)monogame.content.builder.task\3.8.0.1641\build\MonoGame.Content.Builder.Task.targets')" />
+  </ImportGroup>
+>>>>>>> 6afa81e4cd8c2141f3c08f9d57fd7c9b2cd46aae
 </Project>

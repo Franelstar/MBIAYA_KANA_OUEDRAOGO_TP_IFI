@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "runtimeOptions": {
     "tfm": "netcoreapp3.1",
@@ -9,4 +10,17 @@
       "System.Runtime.TieredCompilation": false
     }
   }
+=======
+{
+  "runtimeOptions": {
+    "tfm": "netcoreapp3.1",
+    "framework": {
+      "name": "Microsoft.NETCore.App",
+      "version": "3.1.0"
+    },
+    "configProperties": {
+      "System.Runtime.TieredCompilation": false
+    }
+  }
+>>>>>>> 6afa81e4cd8c2141f3c08f9d57fd7c9b2cd46aae
 }

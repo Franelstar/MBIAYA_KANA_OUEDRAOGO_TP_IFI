@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="utf-8"?>
 <ProjectInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.sonarsource.com/msbuild/integration/2015/1">
   <ProjectName>Casse_briques</ProjectName>
@@ -16,4 +17,24 @@
   <Configuration>Debug</Configuration>
   <Platform>AnyCPU</Platform>
   <TargetFramework>netcoreapp3.1</TargetFramework>
+=======
+<?xml version="1.0" encoding="utf-8"?>
+<ProjectInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.sonarsource.com/msbuild/integration/2015/1">
+  <ProjectName>Casse_briques</ProjectName>
+  <ProjectLanguage>C#</ProjectLanguage>
+  <ProjectType>Product</ProjectType>
+  <ProjectGuid>64bc6d98-aa1f-47cd-9dd5-4f84e22e58a9</ProjectGuid>
+  <FullPath>C:\Users\Franel\source\repos\Casse_briques\Casse_briques\Casse_briques.csproj</FullPath>
+  <IsExcluded>false</IsExcluded>
+  <AnalysisResults>
+    <AnalysisResult Id="FilesToAnalyze" Location="C:\Users\Franel\source\repos\Casse_briques\.sonarqube\out\0\FilesToAnalyze.txt" />
+  </AnalysisResults>
+  <AnalysisSettings>
+    <Property Name="sonar.cs.roslyn.reportFilePath">C:\Users\Franel\source\repos\Casse_briques\Casse_briques\bin\Debug\netcoreapp3.1\Casse_briques.dll.RoslynCA.json|C:\Users\Franel\source\repos\Casse_briques\Casse_briques\bin\Debug\netcoreapp3.1\Casse_briques.dll.RoslynCA.json</Property>
+    <Property Name="sonar.cs.analyzer.projectOutPath">C:\Users\Franel\source\repos\Casse_briques\.sonarqube\out\0</Property>
+  </AnalysisSettings>
+  <Configuration>Debug</Configuration>
+  <Platform>AnyCPU</Platform>
+  <TargetFramework>netcoreapp3.1</TargetFramework>
+>>>>>>> 6afa81e4cd8c2141f3c08f9d57fd7c9b2cd46aae
 </ProjectInfo>

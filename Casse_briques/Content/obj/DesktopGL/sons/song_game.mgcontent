@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <SourceFile>C:/Users/Franel/source/repos/Casse_briques/Casse_briques/Content/sons/song_game.mp3</SourceFile>
@@ -17,4 +18,25 @@
   <BuildOutput>
     <string>C:/Users/Franel/source/repos/Casse_briques/Casse_briques/Content/bin/DesktopGL/sons/song_game.ogg</string>
   </BuildOutput>
+=======
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>C:/Users/Franel/source/repos/Casse_briques/Casse_briques/Content/sons/song_game.mp3</SourceFile>
+  <SourceTime>2020-12-21T12:47:22.021838+07:00</SourceTime>
+  <DestFile>C:/Users/Franel/source/repos/Casse_briques/Casse_briques/Content/bin/DesktopGL/sons/song_game.xnb</DestFile>
+  <DestTime>2020-12-21T12:47:58.9456871+07:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2020-08-11T06:17:54+07:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2020-08-11T06:17:54+07:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>C:/Users/Franel/source/repos/Casse_briques/Casse_briques/Content/bin/DesktopGL/sons/song_game.ogg</string>
+  </BuildOutput>
+>>>>>>> 6afa81e4cd8c2141f3c08f9d57fd7c9b2cd46aae
 </PipelineBuildEvent>
