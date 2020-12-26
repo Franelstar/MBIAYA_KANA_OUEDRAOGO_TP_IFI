@@ -1,0 +1,6 @@
+projectKey=TP_Casse_brique
+serverUrl=http://localhost:9000
+serverVersion=8.5.1.38104
+dashboardUrl=http://localhost:9000/dashboard?id=TP_Casse_brique
+ceTaskId=AXaO-85WX9Dz2Qs5kWUA
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AXaO-85WX9Dz2Qs5kWUA
