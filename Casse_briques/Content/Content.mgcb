@@ -1,3 +1,12 @@
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> refs/remotes/origin/main
+>>>>>>> 3d1d3daf9e9f22a34771a2b965b281f5ab84e897
 
 #----------------------------- Global Properties ----------------------------#
 
@@ -37,6 +46,102 @@
 /processorParam:TextureFormat=Color
 /build:balle.png
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 3d1d3daf9e9f22a34771a2b965b281f5ab84e897
+#begin brique.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:brique.png
+
+#begin briqueVitesse.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:briqueVitesse.png
+
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> refs/remotes/origin/main
+>>>>>>> 3d1d3daf9e9f22a34771a2b965b281f5ab84e897
+#begin raquette.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:raquette.png
+
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+=======
+<<<<<<< HEAD
+>>>>>>> 1b408131c77a99fc5d8b8485f833dce5d0f16c63
+
+#----------------------------- Global Properties ----------------------------#
+
+/outputDir:bin/$(Platform)
+/intermediateDir:obj/$(Platform)
+/platform:DesktopGL
+/config:
+/profile:Reach
+/compress:False
+
+#-------------------------------- References --------------------------------#
+
+
+#---------------------------------- Content ---------------------------------#
+
+#begin background.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:background.png
+
+<<<<<<< HEAD
+#begin balle.png
+=======
+#begin raquette.png
+>>>>>>> 1b408131c77a99fc5d8b8485f833dce5d0f16c63
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+<<<<<<< HEAD
+/build:balle.png
+
 #begin brique.png
 /importer:TextureImporter
 /processor:TextureProcessor
@@ -74,6 +179,27 @@
 /build:life.png
 
 #begin raquette.png
+=======
+/build:raquette.png
+
+=======
+
+#----------------------------- Global Properties ----------------------------#
+
+/outputDir:bin/$(Platform)
+/intermediateDir:obj/$(Platform)
+/platform:DesktopGL
+/config:
+/profile:Reach
+/compress:False
+
+#-------------------------------- References --------------------------------#
+
+
+#---------------------------------- Content ---------------------------------#
+
+#begin background.png
+>>>>>>> 1b408131c77a99fc5d8b8485f833dce5d0f16c63
 /importer:TextureImporter
 /processor:TextureProcessor
 /processorParam:ColorKeyColor=255,0,255,255
@@ -83,6 +209,7 @@
 /processorParam:ResizeToPowerOfTwo=False
 /processorParam:MakeSquare=False
 /processorParam:TextureFormat=Color
+<<<<<<< HEAD
 /build:raquette.png
 
 #begin sons/collision_brique.wav
@@ -121,3 +248,11 @@
 /processorParam:Quality=Best
 /build:sons/song_game.mp3
 
+=======
+/build:background.png
+
+>>>>>>> 6afa81e4cd8c2141f3c08f9d57fd7c9b2cd46aae
+>>>>>>> b8053d46eb6d967618b083729549bf39179b8e68
+>>>>>>> refs/remotes/origin/main
+>>>>>>> 3d1d3daf9e9f22a34771a2b965b281f5ab84e897
+>>>>>>> 1b408131c77a99fc5d8b8485f833dce5d0f16c63

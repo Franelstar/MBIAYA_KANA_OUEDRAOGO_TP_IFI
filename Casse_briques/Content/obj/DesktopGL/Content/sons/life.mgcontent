@@ -1,3 +1,12 @@
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> refs/remotes/origin/main
+>>>>>>> 3d1d3daf9e9f22a34771a2b965b281f5ab84e897
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <SourceFile>C:/Users/Franel/source/repos/Casse_briques/Casse_briques/Content/sons/life.wav</SourceFile>
@@ -15,4 +24,53 @@
   <Dependencies />
   <BuildAsset />
   <BuildOutput />
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+=======
+<<<<<<< HEAD
+>>>>>>> 1b408131c77a99fc5d8b8485f833dce5d0f16c63
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>C:/Users/Franel/source/repos/Casse_briques/Casse_briques/Content/sons/life.wav</SourceFile>
+  <SourceTime>2020-12-21T12:15:51.5680027+07:00</SourceTime>
+  <DestFile>C:/Users/Franel/source/repos/Casse_briques/Casse_briques/Content/bin/DesktopGL/Content/sons/life.xnb</DestFile>
+  <DestTime>2020-12-21T12:16:28.4867525+07:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2020-08-11T06:17:54+07:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2020-08-11T06:17:54+07:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+<<<<<<< HEAD
+=======
+=======
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>C:/Users/Franel/source/repos/Casse_briques/Casse_briques/Content/sons/life.wav</SourceFile>
+  <SourceTime>2020-12-21T12:15:51.5680027+07:00</SourceTime>
+  <DestFile>C:/Users/Franel/source/repos/Casse_briques/Casse_briques/Content/bin/DesktopGL/Content/sons/life.xnb</DestFile>
+  <DestTime>2020-12-21T12:16:28.4867525+07:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2020-08-11T06:17:54+07:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2020-08-11T06:17:54+07:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+>>>>>>> 6afa81e4cd8c2141f3c08f9d57fd7c9b2cd46aae
+>>>>>>> b8053d46eb6d967618b083729549bf39179b8e68
+>>>>>>> refs/remotes/origin/main
+>>>>>>> 3d1d3daf9e9f22a34771a2b965b281f5ab84e897
+>>>>>>> 1b408131c77a99fc5d8b8485f833dce5d0f16c63
 </PipelineBuildEvent>

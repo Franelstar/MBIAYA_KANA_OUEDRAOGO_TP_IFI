@@ -1,3 +1,72 @@
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>C:/Users/Franel/source/repos/Casse_briques _gestion des collisions/Casse_briques/Content/brique.png</SourceFile>
+  <SourceTime>2020-12-20T11:50:36.0095375+07:00</SourceTime>
+  <DestFile>C:/Users/Franel/source/repos/Casse_briques _gestion des collisions/Casse_briques/Content/bin/DesktopGL/brique.xnb</DestFile>
+  <DestTime>2020-12-26T10:44:33.5307879+07:00</DestTime>
+=======
+<<<<<<< HEAD
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>C:/Users/Franel/source/repos/Casse_briques_brique_sans_collison/Casse_briques/Content/brique.png</SourceFile>
+  <SourceTime>2020-12-20T11:50:36.0095375+07:00</SourceTime>
+  <DestFile>C:/Users/Franel/source/repos/Casse_briques_brique_sans_collison/Casse_briques/Content/bin/DesktopGL/brique.xnb</DestFile>
+  <DestTime>2020-12-26T10:37:27.4665844+07:00</DestTime>
+=======
+<<<<<<< HEAD
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>C:/Users/Franel/source/repos/Casse_briques/Casse_briques/Content/brique.png</SourceFile>
+  <SourceTime>2020-12-20T11:50:36.0095375+07:00</SourceTime>
+  <DestFile>C:/Users/Franel/source/repos/Casse_briques/Casse_briques/Content/bin/DesktopGL/brique.xnb</DestFile>
+  <DestTime>2020-12-20T11:52:13.7644494+07:00</DestTime>
+>>>>>>> refs/remotes/origin/main
+>>>>>>> 3d1d3daf9e9f22a34771a2b965b281f5ab84e897
+  <Importer>TextureImporter</Importer>
+  <ImporterTime>2020-08-11T06:17:54+07:00</ImporterTime>
+  <Processor>TextureProcessor</Processor>
+  <ProcessorTime>2020-08-11T06:17:54+07:00</ProcessorTime>
+  <Parameters>
+    <Key>ColorKeyColor</Key>
+    <Value>255,0,255,255</Value>
+  </Parameters>
+  <Parameters>
+    <Key>ColorKeyEnabled</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>GenerateMipmaps</Key>
+    <Value>False</Value>
+  </Parameters>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>ResizeToPowerOfTwo</Key>
+    <Value>False</Value>
+  </Parameters>
+  <Parameters>
+    <Key>MakeSquare</Key>
+    <Value>False</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Color</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+=======
+<<<<<<< HEAD
+>>>>>>> 1b408131c77a99fc5d8b8485f833dce5d0f16c63
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <SourceFile>C:/Users/Franel/source/repos/Casse_briques/Casse_briques/Content/brique.png</SourceFile>
@@ -39,4 +108,53 @@
   <Dependencies />
   <BuildAsset />
   <BuildOutput />
+<<<<<<< HEAD
+=======
+=======
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>C:/Users/Franel/source/repos/Casse_briques/Casse_briques/Content/brique.png</SourceFile>
+  <SourceTime>2020-12-20T11:50:36.0095375+07:00</SourceTime>
+  <DestFile>C:/Users/Franel/source/repos/Casse_briques/Casse_briques/Content/bin/DesktopGL/brique.xnb</DestFile>
+  <DestTime>2020-12-20T11:52:13.7644494+07:00</DestTime>
+  <Importer>TextureImporter</Importer>
+  <ImporterTime>2020-08-11T06:17:54+07:00</ImporterTime>
+  <Processor>TextureProcessor</Processor>
+  <ProcessorTime>2020-08-11T06:17:54+07:00</ProcessorTime>
+  <Parameters>
+    <Key>ColorKeyColor</Key>
+    <Value>255,0,255,255</Value>
+  </Parameters>
+  <Parameters>
+    <Key>ColorKeyEnabled</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>GenerateMipmaps</Key>
+    <Value>False</Value>
+  </Parameters>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>ResizeToPowerOfTwo</Key>
+    <Value>False</Value>
+  </Parameters>
+  <Parameters>
+    <Key>MakeSquare</Key>
+    <Value>False</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Color</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+>>>>>>> 6afa81e4cd8c2141f3c08f9d57fd7c9b2cd46aae
+>>>>>>> b8053d46eb6d967618b083729549bf39179b8e68
+>>>>>>> refs/remotes/origin/main
+>>>>>>> 3d1d3daf9e9f22a34771a2b965b281f5ab84e897
+>>>>>>> 1b408131c77a99fc5d8b8485f833dce5d0f16c63
 </PipelineBuildEvent>
