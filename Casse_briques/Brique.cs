@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ﻿using System;
 using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Audio;
@@ -45,18 +44,7 @@ namespace Casse_briques
             _ballBounceWall.Play();
         }
     }
-}
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> refs/remotes/origin/main
->>>>>>> 3d1d3daf9e9f22a34771a2b965b281f5ab84e897
-﻿using System;
+}﻿using System;
 using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Audio;
 
@@ -64,65 +52,9 @@ namespace Casse_briques
 {
     class Brique : Element2D
     {
-<<<<<<< HEAD
-        protected int point;
-        protected float multiplicateur_vitesse;
-=======
->>>>>>> 3d1d3daf9e9f22a34771a2b965b281f5ab84e897
-
-        public Brique(Game game, String texture, Vector2 position) : base(game, texture, position)
-        {
-
-        }
-
-        public override void Initialize()
-        {
-            base.Initialize();
-<<<<<<< HEAD
-            point = 10;
-            multiplicateur_vitesse = 0.0f;
-        }
-
-        public int points
-        {
-            get
-            {
-                return point;
-            }
-        }
-
-        public float multiplicateurVitesse
-        {
-            get
-            {
-                return multiplicateur_vitesse;
-            }
-        }
-    }
-}
-=======
-        }
-    }
-}
-<<<<<<< HEAD
-=======
-=======
-<<<<<<< HEAD
->>>>>>> 1b408131c77a99fc5d8b8485f833dce5d0f16c63
-﻿using System;
-using Microsoft.Xna.Framework;
-using Microsoft.Xna.Framework.Audio;
-
-namespace Casse_briques
-{
-    class Brique : Element2D
-    {
-<<<<<<< HEAD
         protected int point;
         protected float multiplicateur_vitesse;
         protected SoundEffect _ballBounceWall;
-=======
->>>>>>> 1b408131c77a99fc5d8b8485f833dce5d0f16c63
 
         public Brique(Game game, String texture, Vector2 position) : base(game, texture, position)
         {
@@ -132,7 +64,6 @@ namespace Casse_briques
         public override void Initialize()
         {
             base.Initialize();
-<<<<<<< HEAD
             point = 10;
             multiplicateur_vitesse = 0.0f;
             _ballBounceWall = this.Game.Content.Load<SoundEffect>("sons/collision_brique");
@@ -160,34 +91,3 @@ namespace Casse_briques
         }
     }
 }
-=======
-        }
-    }
-}
-=======
-﻿using System;
-using Microsoft.Xna.Framework;
-using Microsoft.Xna.Framework.Audio;
-
-namespace Casse_briques
-{
-    class Brique : Element2D
-    {
-
-        public Brique(Game game, String texture, Vector2 position) : base(game, texture, position)
-        {
-
-        }
-
-        public override void Initialize()
-        {
-            base.Initialize();
-        }
-    }
-}
->>>>>>> 6afa81e4cd8c2141f3c08f9d57fd7c9b2cd46aae
->>>>>>> b8053d46eb6d967618b083729549bf39179b8e68
->>>>>>> refs/remotes/origin/main
->>>>>>> 3d1d3daf9e9f22a34771a2b965b281f5ab84e897
->>>>>>> 1b408131c77a99fc5d8b8485f833dce5d0f16c63
->>>>>>> 83d6fb56b6aadf27069ac72605997b33c28b0d01
